@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lambda CDM Research
-img: "assets/img/portfolio/cdm.cdm.jpg"
+img: "assets/img/portfolio/cdm.jpg"
 date: October 2023
 ---
 
