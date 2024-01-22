@@ -9,8 +9,6 @@ position: 3
 tags: [Page]
 ---
 
-This is a photo gallery made from the static files in the `assets/img/pexels` folder. 
-I wanted to automatically create a simple gallery from a folder without having to create a markdown page as you would for the portfolio.
+## My Gallery
 
-
-{% include gallery.html gallery_path=page.gallery_path %}
+Check out my favorite pictures in the Gallery! It's a space filled with cool and amazing images that I love. Each picture has a special story. Join me on this visual adventure and see the wonders I've discovered!
