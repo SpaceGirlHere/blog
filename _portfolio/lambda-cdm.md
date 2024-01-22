@@ -14,6 +14,6 @@ I am working as a Research Intern at the Indian Institute of Technology (IIT), I
 
 ## Image Credits
 
-- ![CMB_Timeline](https://en.wikipedia.org/wiki/Big_Bang) from Wikipedia
+[CMB_Timeline](https://en.wikipedia.org/wiki/Big_Bang) from Wikipedia
 
 
