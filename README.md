@@ -8,6 +8,6 @@ SpaceGirlHereBlog is a space for exploration and reflection on the wonders of th
 
 ## Content License
 
-All content in this repository is licensed under the [SpaceGirl's Blog Content License](LICENSE.md), unless otherwise specified. Please review the license for details on how you can use and share the content.
+All content in this repository is licensed under the [SpaceGirl's Blog Content License](LICENSE), unless otherwise specified. Please review the license for details on how you can use and share the content.
 
 Happy reading and exploring!
