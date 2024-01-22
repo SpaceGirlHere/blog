@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Purpose - From Philosophy to Physics
+hide_title: true
 color: rgb(250, 50, 50)
 feature-img: "assets/img/feature-img/story.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/story.jpeg"
@@ -8,9 +9,11 @@ tags: [Physics, Philosophy, Purpose]
 categories: Post
 ---
 
+# The Purpose - From Philosophy to Physics
+
 > **But how could you live and have no story to tell?** - Fyodor Dostoevsky 
 
-# Asking questions
+## Asking questions
 
 Our lives will inevitably tell a story, but we should carefully consider if it is the story we want to tell and if it is the life we want to live... Have you ever been lost in the thought of the meaning of life? Have you ever thought about why you exist? Or how this world came into being? Is there a creator? If yes, why did he/she create us? And, most importantly, what is the purpose of our lives?
 
@@ -22,7 +25,7 @@ The search for meaning is one of the deepest desires of humankind. Observing, fi
 
 As a child, we ask questions and learn. But things start to change as the child starts growing up. As we start understanding the world around us and the way it works, we get involved in the everyday things of our life and forget to ask questions!
 
-# The Story - How did it start for me?
+## The Story - How did it start for me?
 There is a beginning for everyone; everyone has a story, and so it was for me.
 
 Well, to begin, how did it start for me? Or how did I first realize that physics is what I want to do all my life? I still remember it started with a show that I watched at a planetarium. I was around 12, and it was the summer holidays. I decided to go to the planetarium with a friend. We booked a show on the Big Bang and the beginning of the universe!
@@ -35,5 +38,5 @@ Without the Big Bang, there would have been no formation of stars, galaxies, or 
 Finally, it developed an urge in me to try to find answers! I started the quest! I started my journey! The sole purpose of it became the thirst to find how I exist today and why I exist today? What is my purpose? What is our purpose?
 
 
-# Answering the questions
+## Answering the questions
 Let’s try to answer this question with an open mind! So, let’s start from how did we come into existence. Over the past centuries, people have tried to find the answer to such questions, but quest for understanding is ongoing, and we eagerly await further exploration and discovery. 
