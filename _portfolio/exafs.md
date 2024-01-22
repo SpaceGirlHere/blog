@@ -1,8 +1,8 @@
 ---
 layout: post
 title: EXAFS (Extended X-ray Absorption Fine Structure)
-feature-img: "assets/img/portfolio/exafs.png"
-img: "assets/img/portfolio/exafs.png"
+feature-img: "assets/img/portfolio/bohr-model.jpg"
+img: "assets/img/portfolio/bohr-model.jpg"
 date: 2023-06-15
 ---
 
