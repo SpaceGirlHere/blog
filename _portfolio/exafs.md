@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EXAFS (Extended X-ray Absorption Fine Structure)
-img: "assets/img/portfolio/bohr-model.jpg"
+feature-img: "assets/img/portfolio/bohr-model.jpg"
 date: 2023-06-15
 ---
 
@@ -9,6 +9,6 @@ I have worked as a Research Trainee at the Raja Ramanna Centre for Advanced Tech
 
 ## Image Credits
 
-- ![Bohr model](http://ceat.com.tn/kjyo.aspx?cname=atom+lt+quantum&cid=97) from atom lt quantum
+[Bohr model](ceat.com.tn/kjyo.aspx?cname=atom+lt+quantum&cid=97 ) from atom lt quantum
 
 
