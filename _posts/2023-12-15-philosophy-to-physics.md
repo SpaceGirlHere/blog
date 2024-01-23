@@ -4,7 +4,8 @@ title: The Purpose - From Philosophy to Physics
 hide_title: true
 color: rgb(250, 50, 50)
 feature-img: "assets/img/feature-img/stone-bg.jpg"
-thumbnail: "assets/img/thumbnails/feature-img/stone-bg.jpg"
+img: "assets/img/feature-img/stone-bg.jpg"
+thumbnail: "assets/img/feature-img/stone-bg.jpg"
 tags: [Physics, Philosophy, Purpose]
 categories: Post
 ---
@@ -25,7 +26,7 @@ The search for meaning is one of the deepest desires of humankind. Observing, fi
 
 As a child, we ask questions and learn. But things start to change as the child starts growing up. As we start understanding the world around us and the way it works, we get involved in the everyday things of our life and forget to ask questions!
 
-{% include aligner.html images="pexels/philosophy.jpeg" %}
+{% include aligner.html images="pexels/philosophy.jpg" %}
 
 ## The Story - How did it start for me?
 There is a beginning for everyone; everyone has a story, and so it was for me.
