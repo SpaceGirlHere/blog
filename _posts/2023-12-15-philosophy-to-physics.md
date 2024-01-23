@@ -46,5 +46,5 @@ Let’s try to answer this question with an open mind! So, let’s start from ho
 
 ## Image Credits
 
-[Philosopher] from Philosophy page, york.ac.uk
-[Pebble Rock pile] from Philosophy page, york.ac.uk
+[^1]: Philosopher from Philosophy page, york.ac.uk
+[^2]: Pebble Rock pile from Philosophy page, york.ac.uk
