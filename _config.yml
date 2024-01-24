@@ -10,7 +10,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: Diary of Cosmic Reflections, Journeys into the Unknown  # Change Blog header text
-header_feature_image: assets/img/header/triangular.jpeg
+header_feature_image: assets/img/header/about-bg.png
 header_feature_image_responsive: true
 footer_text: >
   ©SpaceGirlHere @ 2024. All rights reserved. Powered by Jekyll with Type on Strap
