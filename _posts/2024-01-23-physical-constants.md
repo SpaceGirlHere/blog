@@ -30,7 +30,12 @@ For instance, if we put constraints on the distance we travel and the time we ta
 “But what is their physical importance? Can we disintegrate them into basic physical properties at the end like we did with resistance. Maybe those properties would be inherent to our universe, these are the most fundamental, like universe’s traits and we can consider them as the blueprint of the universe maybe” she thought. ”I need to explore this!”
 
 ```yaml 
-Constants can be seen as part of the 'blueprint' or inherent properties that define the structure and behaviour of our universe. Scientists continuously strive to refine the measurement accuracy of constants and understand their underlying nature. While there is ongoing research to improve precision, the nature of certain constants may be deeply rooted in the fabric of our universe, making it challenging to break them down into simpler components.
+Constants can be seen as part of the 'blueprint' or inherent properties 
+that define the structure and behaviour of our universe. 
+Scientists continuously strive to refine the measurement accuracy of constants 
+and understand their underlying nature. While there is ongoing research to improve precision, 
+the nature of certain constants may be deeply rooted in the fabric of our universe, 
+making it challenging to break them down into simpler components.
 ```
 
 “But are we doing anything to break them down and understand them? or just keep calculating their accurate values ???” she questioned.
@@ -43,12 +48,16 @@ While constants are used to describe relationships between physical quantities, 
 “I see, there are many things which remain constant in nature. Like the speed of light! It kind of governs the fundamental properties of electromagnetic waves. If we talk about the quantum scale, certain universal constants are deeply connected to the behaviour of particles. We can question why the mass of a proton is what it is and will end up with a question mark. But here's the cool part—this mass plays a super important role in shaping how atoms form and, in turn, how the whole universe comes together! These constants seem like nature's way of keeping everything in balance, creating a kind of cosmic order that we're still figuring out and marvelling at."
 
 
+
 ### She continued thinking......
+
+
 
 #### Image Credits
 
 * Pi-symbol.jpg from https://stock.adobe.com/272300873
 * Yin-and-Yang.jpg supernaturalwiki.com 
+
 
 
 #### References
