@@ -40,8 +40,8 @@ Supplementary Non-Academic Engagements
 ### HOBBIES 
 
  
- > | ####  Reading Research-papers |
- > | ####  Baking                  |
- > | ####  Stargazing              |
- > | ####  Sketching               |
- > | ####  Dancing.                |
+| ####  Reading Research-papers |
+| ####  Baking                  |
+| ####  Stargazing              |
+| ####  Sketching               |
+| ####  Dancing.                |
