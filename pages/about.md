@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+hide_title: true
 feature-img: "assets/img/header/about-bg.png"
 tags: [Page]
 ---

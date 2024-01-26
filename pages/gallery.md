@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gallery
+hide_title: true
 subtitle: Favorite Pictures
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
