@@ -18,21 +18,17 @@ categories: Post
 
 ## Lets try if chat works !
 
-  <div class="container chat-container">
-    <!-- Chat Messages -->
-    <div class="chat-card user-message card">
-      <div class="card-content">
-        <span class="white-text"><strong>User:</strong> She was sitting on the swing in a garden on a fine evening...</span>
-      </div>
+<div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #03a9f4; color: #fff;">
+    <div style="padding: 10px;">
+        User's message goes here.
     </div>
-    <div class="chat-card quantumboy-message card">
-      <div class="card-content">
-        <span class="white-text"><strong>QuantumBoy:</strong> The garden had people, who were busy with their lives as usual...</span>
-      </div>
+</div>
+
+<div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #4caf50; color: #fff;">
+    <div style="padding: 10px;">
+        QuantumBoy's message goes here.
     </div>
-  </div>
-
-
+</div>
 
 #### Image Credits
 
