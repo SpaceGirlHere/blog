@@ -18,7 +18,7 @@ She was sitting on the swing in a garden on a fine evening. The sunset looked me
 
 The garden had people, who were busy with their lives as usual. But today she noticed someone who was looking closely at the sunflowers. She started to think, "At first it seemed normal, anyone could be adoring the beauty of flowers. But later realised that's not what he was doing!" She decided to ask.  
 
-<img src="https://live.staticflickr.com/77/201811740_dc71716bc1_b.jpg" style="width: 100%; height: auto; margin-top: 20px;">
+<img src="https://live.staticflickr.com/77/201811740_dc71716bc1_b.jpg" alt="startbootstrap" style="width: 60%; height: 40%; margin-top: 20px;">
 
 As she stood near in hesitation and confusion, he noticed her and asked, 
 <div style="max-width: 600px; margin: 0 auto;">
@@ -36,7 +36,7 @@ She looked at the beautiful pattern. He went on,
             </div>
     </div>
 </div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Starfish_02_%28paulshaffner%29_cropped.jpg" style="width: 100%; height: auto; margin-top: 20px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Starfish_02_%28paulshaffner%29_cropped.jpg" alt="startbootstrap" style="width: 60%; height: 40%; margin-top: 20px;">
 <div style="max-width: 600px; margin: 0 auto;">
     <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 80%;">
         <div style="padding: 12px;">
