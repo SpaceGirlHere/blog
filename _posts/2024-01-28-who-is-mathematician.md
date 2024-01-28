@@ -33,7 +33,7 @@ She looked at the beautiful pattern. He went on,
                 "Nature is so perfect! Maybe nature loves mathematics. Have you ever noticed that from plants such as sunflowers to animals and insects like butterflies, starfish, and even we humans, all the way to large structures like spiral galaxies—everything seems to follow a certain symmetrical and mathematical pattern! But why?"
             </div>
     </div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Starfish_02_%28paulshaffner%29_cropped.jpg" alt="startbootstrap" style="width: 60%; height: 40%; margin-top: 20px;">>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Starfish_02_%28paulshaffner%29_cropped.jpg" alt="startbootstrap" style="width: 60%; height: 40%; margin-top: 20px;">
 There was a spark in his eyes that reflected an urge to find the answers. He said, 
      <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 80%;">
             <div style="padding: 12px;">
