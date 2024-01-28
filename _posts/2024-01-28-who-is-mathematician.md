@@ -18,15 +18,16 @@ categories: Post
 
 ## Lets try if chat works !
 
-<div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #03a9f4; color: #fff;">
-    <div style="padding: 10px;">
-        User's message goes here.
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 70%;">
+        <div style="padding: 12px;">
+           Space girl message goes here.
+        </div>
     </div>
-</div>
-
-<div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #4caf50; color: #fff;">
-    <div style="padding: 10px;">
-        QuantumBoy's message goes here.
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 70%;">
+        <div style="padding: 12px;">
+            QuantumBoy's message goes here. It can be a long message that will wrap to the next line as needed and goes further.
+        </div>
     </div>
 </div>
 
