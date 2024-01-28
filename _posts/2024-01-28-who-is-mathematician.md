@@ -21,22 +21,26 @@ The garden had people, who were busy with their lives as usual. But today she no
 <img src="https://live.staticflickr.com/77/201811740_dc71716bc1_b.jpg" style="width: 100%; height: auto; margin-top: 20px;">
 
 As she stood near in hesitation and confusion, he noticed her and asked, 
+<div style="max-width: 600px; margin: 0 auto;">
     <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 80%;">
             <div style="padding: 12px;">
                 "Have you ever happened to observe the symmetry in this flower?" 
             </div>
     </div>
+</div>
 She looked at the beautiful pattern. He went on,
+<div style="max-width: 600px; margin: 0 auto;">
      <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 80%;">
             <div style="padding: 12px;">
                 "Nature is so perfect! Maybe nature loves mathematics. Have you ever noticed that from plants such as sunflowers to animals and insects like butterflies, starfish, and even we humans, all the way to large structures like spiral galaxies—everything seems to follow a certain symmetrical and mathematical pattern! But why?"
             </div>
     </div>
-
+</div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Starfish_02_%28paulshaffner%29_cropped.jpg" style="width: 100%; height: auto; margin-top: 20px;">
-
-<div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 80%;">
-    <div style="padding: 12px;">
-        "It seems as if nature prefers symmetry, don't you think?"
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 80%;">
+        <div style="padding: 12px;">
+            "It seems as if nature prefers symmetry, don't you think?"
+        </div>
     </div>
 </div>
