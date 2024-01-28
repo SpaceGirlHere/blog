@@ -18,32 +18,6 @@ categories: Post
 
 ## Lets try if chat works !
 
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-  <style>
-    body {
-      background-color: #f0f0f0;
-      padding: 20px;
-    }
-    .chat-container {
-      max-width: 600px;
-      margin: 0 auto;
-    }
-    .chat-card {
-      margin: 10px 0;
-      border-radius: 15px;
-      overflow: hidden;
-    }
-    .user-message {
-      background-color: #03a9f4;
-      color: #fff;
-    }
-    .quantumboy-message {
-      background-color: #4caf50;
-      color: #fff;
-    }
-  </style>
-</head>
-<body>
   <div class="container chat-container">
     <!-- Chat Messages -->
     <div class="chat-card user-message card">
