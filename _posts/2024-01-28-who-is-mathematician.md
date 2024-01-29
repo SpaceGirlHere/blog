@@ -37,6 +37,7 @@ She looked at the beautiful pattern. He went on,
     </div>
 </div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Starfish_02_%28paulshaffner%29_cropped.jpg" alt="startbootstrap" style="width: 60%; height: 40%; margin-top: 20px;">
+There was a spark in his eyes that reflected an urge to find the answers. He said, 
 <div style="max-width: 600px; margin: 0 auto;">
     <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
         <div style="padding: 12px;">
@@ -44,3 +45,104 @@ She looked at the beautiful pattern. He went on,
         </div>
     </div>
 </div>
+She nodded. 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+             "Does this order and complexity that we find everywhere in the universe indicate that it has been designed with a purpose, rather than a random and chaotic system?" 
+        </div>
+    </div>
+</div>
+he questioned. 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+              "Okay, okay, but why should we care?"
+        </div>
+    </div>
+</div>
+She asked. He smiled and said, 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+               "Do you know about the fundamental forces of the universe?" 
+        </div>
+    </div>
+</div>
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+               "Yes, I do know" 
+        </div>
+    </div>
+</div>
+She started to get excited. He continues then, 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+              “So, there are 4 fundamental forces known to us in our universe. First is the gravitational force that acts between any 2 objects due to their mass. It is the force that is responsible for the motion of the earth around the sun, the motion of stars around the centre of the galaxy, and thanks to this force we're not all floating around like balloons at a birthday party!” 
+        </div>
+    </div>
+</div>
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+                “Second is the electromagnetic force that governs the motion of electrons around the nucleus in an atom. It is the same force that makes possible the electricity in your house and even the sunlight you receive is nothing but electromagnetic energy.”
+        </div>
+    </div>
+</div>
+He sighed and continued.... 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+               “The other 2 forces belong to the nucleus. They are known as weak nuclear and strong nuclear forces. They hold the nucleus together. Well, the Weak Nuclear Force is like the friendly mediator, making sure Uncle Proton and Aunt Neutron don't argue over who gets the last sandwich! And the Strong nuclear force is the ultimate bonding agent, it glues them all together. When the humans  got an understanding of fundamental forces, it led to the destruction in Hiroshima and Nagasaki during the 2nd world War!”
+        </div>
+    </div>
+</div>
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+                “But how is that related to symmetry?” 
+        </div>
+    </div>
+</div>
+She questioned impatiently. but he answered with ease, 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+               “Our universe is believed to have started with a single event..."
+        </div>
+    </div>
+</div>
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+                 "Big bang !!!"  
+        </div>
+    </div>
+</div>
+She popped up. 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+             "Yeah, so everything came into existence with a single infinitely small point, right? There were no particles at the beginning and no nucleus, no matter either…probably it was pure energy spread around!”
+        </div>
+    </div>
+</div>
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+             “I see...then what about these forces we have classified? How would weak force know if it is different from gravitational force? Or how would electromagnetic force distinguish itself from strong force? There ain’t an electron, nor a proton.” 
+        </div>
+    </div>
+</div>
+She was confused.
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+                “Exactly! At the beginning of time, all these forces would be the same, all unified into one single force,” 
+        </div>
+    </div>
+</div>
+He exclaimed. 
+### Breaking Symmetry and the Birth of Matter
