@@ -37,6 +37,8 @@ She looked at the beautiful pattern. He went on,
     </div>
 </div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Starfish_02_%28paulshaffner%29_cropped.jpg" alt="startbootstrap" style="width: 60%; height: 40%; margin-top: 20px;">
+
+
 There was a spark in his eyes that reflected an urge to find the answers. He said, 
 <div style="max-width: 600px; margin: 0 auto;">
     <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
@@ -145,4 +147,116 @@ She was confused.
     </div>
 </div>
 He exclaimed. 
+
 ### Breaking Symmetry and the Birth of Matter
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+            “But with time as the energy started to take shape into particles…” 
+        </div>
+    </div>
+</div>
+He paused to see what she was trying to say. Suddenly it clicked to her, and she said, 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+            “The symmetry among these forces began to break!!”  
+        </div>
+    </div>
+</div>
+He smiled, 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+            “Yes, and finally we had different particles, and forces among them began to bind them together and gave us atoms and atoms gave us matter which took up the form of gases stars planets, and galaxies…and finally life! If that symmetry never broke, we might not be here today appreciating the symmetry of a sunflower. I wonder, who is this wonderful Mathematician...” 
+        </div>
+    </div>
+</div>
+She burst into laughter, then said
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+           “That's true! That was indeed an amazing conversation.” 
+        </div>
+    </div>
+</div>
+She paused for a while and said, 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+            ”Still, we see a lot of asymmetries in this world, what about it?”
+        </div>
+    </div>
+</div>
+He looked at this watch, 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+             “That's right, but let's keep this for some other day”. 
+        </div>
+    </div>
+</div>
+She nodded, 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+            ”But where to find you?”
+        </div>
+    </div>
+</div>
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+            “I enjoy spending leisure time at the city library”  
+        </div>
+    </div>
+</div>
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+            “All right, hope to have another interesting talk soon!” 
+        </div>
+    </div>
+</div>
+She said with a smile. 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+           “Of course…” 
+        </div>
+    </div>
+</div>
+### Meet the Quantum Maestro
+He thought to wave goodbye, but she suddenly asked
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+            “What should I call you, btw?” 
+        </div>
+    </div>
+</div>
+He replied with a playful smile.
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+            “Well, does it 'MATTER' !?, whatever!”. 
+        </div>
+    </div>
+</div>
+But She already had a name for him in mind, 
+<div style="max-width: 600px; margin: 0 auto;">
+    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
+        <div style="padding: 12px;">
+            “Can I call you a QuantumBoy, if you don’t mind?!”
+        </div>
+    </div>
+</div>
+
+He laughed and nodded. They waved goodbyes... Meanwhile, her thoughts continued..."
+
+
+#### Image Credits
+
+* Banner-milkyway.jpg from https://www.deviantart.com/madrusss/art/Architect-of-the-Universe-A-Celestial-Study-993435498 
+* Sunflower.jpg from https://www.flickr.com/photos/audreyjm529/201811740/
+* Starfish.jpg from https://en.wikipedia.org/wiki/Patterns_in_nature#/media/File:Starfish_02_(paulshaffner)_cropped.jpg  
