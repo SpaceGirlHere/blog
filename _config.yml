@@ -47,12 +47,6 @@ collections:
     output: true
     permalink: /:collection/:name
 
-# GALLERY
-collections:
-  gallery:
-    output: true
-    permalink: /:collection/:name
-
 # BUILD SETTINGS
 sass:
   style: compressed
