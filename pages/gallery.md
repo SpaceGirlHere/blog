@@ -20,3 +20,4 @@ tags: [Page]
 
 * https://apod.nasa.gov/apod/ap240205.html
 * https://apod.nasa.gov/apod/ap230515.html
+* https://apod.nasa.gov/apod/ap230609.html
