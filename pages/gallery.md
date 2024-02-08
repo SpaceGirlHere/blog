@@ -13,4 +13,4 @@ tags: [Page]
 
 ## My Gallery
 
-Check out my favorite pictures in the Gallery! It's a space filled with cool and amazing images that I love. Each picture has a special story. Join me on this visual adventure and see the wonders I've discovered!
+{% include portfolio.html %}
