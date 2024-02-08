@@ -13,4 +13,4 @@ tags: [Page]
 
 ## My Gallery
 
-{% include portfolio.html %}
+{% include gallery.html %}
