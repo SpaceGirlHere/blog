@@ -43,7 +43,7 @@ She could imagine nuclei of hydrogen fusing together in front of her eyes in tha
 <div class="container-fluid">
   <img src="https://spacegirlhere.github.io/blog/assets/img/pexels/supernova-remnant.jpg"
        alt="startbootstrap"
-       style="width: 100%; height: 50vh; object-fit: cover; margin-top: 20px;">
+       style="width: 100%; height: 65vh; object-fit: cover; margin-top: 20px;">
 </div>
 
 "There comes a point when the nuclei are no longer able to fuse together to form a further bigger nucleus as no sufficient energy remains. This is the point when fusion stops, and the outward thermal pressure is overpowered by the inward gravitational force. "So, finally, one day gravitational force has to win! Then the star will start to collapse into itself and compress inward due to gravity" she concluded.
@@ -52,7 +52,11 @@ She could imagine nuclei of hydrogen fusing together in front of her eyes in tha
 
 > What is left behind after the explosion is a dense core of the star, which becomes as dense as Earth compressed down to the size of an apple! This is known as a neutron star. If the star is big enough, what is left after a supernova is a black hole.
 
-<img src="https://spacegirlhere.github.io/blog/assets/img/pexels/star-death.png" alt="startbootstrap" style="width: 100%; height: 40%; margin-top: 20px;">
+<div class="container-fluid">
+  <img src="https://spacegirlhere.github.io/blog/assets/img/pexels/star-death.png"
+       alt="startbootstrap"
+       style="width: 100%; height: 65vh; object-fit: cover; margin-top: 20px;">
+</div>
 
 
 “But is this the end of the star? 
