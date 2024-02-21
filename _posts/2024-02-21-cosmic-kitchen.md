@@ -17,8 +17,7 @@ categories: Post
 One afternoon while she was looking at the sun from the window, the shiny object in the sky that keeps us alive and warm with its glow. Being equally beautiful and mysterious, this object interests her every now and then and makes her ponder upon its magnificent existence. Sun has the power to 'make us' as well as 'destroy us' within a blink of an eye, she thinks. But she wanted to know what makes the sun!
 With a mug of something comforting in hand, she leans against the window sill, captivated by the canvas of the sky. In the ancient mythology, Surya is the Sun god. He's portrayed riding a chariot drawn by seven horses, symbolising the seven colours of a rainbow or the seven chakras in the body. Surya is believed to bring light, eliminating darkness from our lives!
 
-![Death of Star]({{ "/assets/img/pexels/suyra-helios.jpg" | relative_url }})
-<img src="https://spacegirlhere.github.io/blog/assets/img/pexels/suyra-helios.jpg" alt="startbootstrap" style="width: 90%; height: 50%; margin-top: 20px;">
+<img src="https://spacegirlhere.github.io/blog/assets/img/pexels/suyra-helios.jpg" alt="startbootstrap" style="width: 110%; height: 50%; margin-top: 20px;">
 
 
 Wondering about the mystery of the Sun, she remembered what she had learned in school about a star.. “A burning ball of gases?!” she thought. Suddenly her mother called her to the kitchen. Cooking, being a kind of mystical experience for her, always reminded her about chemistry! She learned in school how a combination of a few chemicals can make something cool. 
@@ -40,7 +39,7 @@ She could imagine nuclei of hydrogen fusing together in front of her eyes in tha
 
 “But do these forces ever get imbalanced? If yes, when? And then what happens to the star?” she questioned. Meanwhile, she continued to ponder the possibilities, and her mother noticed. “Oh girl, you are so slow! I could have prepared the entire lunch by this time, and you haven’t finished chopping yet!” her mother exclaimed. But she took no notice of her as she was lost in her thoughts, busy solving another mystery of the universe! 
 
-<img src="https://spacegirlhere.github.io/blog/assets/img/pexels/supernova-remnant.jpg" alt="startbootstrap" style="width: 90%; height: 50%; margin-top: 20px;">
+<img src="https://spacegirlhere.github.io/blog/assets/img/pexels/supernova-remnant.jpg" alt="startbootstrap" style="width: 110%; height: 50%; margin-top: 20px;">
 
 "There comes a point when the nuclei are no longer able to fuse together to form a further bigger nucleus as no sufficient energy remains. This is the point when fusion stops, and the outward thermal pressure is overpowered by the inward gravitational force. "So, finally, one day gravitational force has to win! Then the star will start to collapse into itself and compress inward due to gravity" she concluded.
 
@@ -48,7 +47,7 @@ She could imagine nuclei of hydrogen fusing together in front of her eyes in tha
 
 > What is left behind after the explosion is a dense core of the star, which becomes as dense as Earth compressed down to the size of an apple! This is known as a neutron star. If the star is big enough, what is left after a supernova is a black hole.
 
-<img src="https://spacegirlhere.github.io/blog/assets/img/pexels/star-death.png" alt="startbootstrap" style="width: 90%; height: 50%; margin-top: 20px;">
+<img src="https://spacegirlhere.github.io/blog/assets/img/pexels/star-death.png" alt="startbootstrap" style="width: 110%; height: 50%; margin-top: 20px;">
 
 
 “But is this the end of the star? 
