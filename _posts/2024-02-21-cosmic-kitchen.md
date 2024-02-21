@@ -1,262 +1,67 @@
 ---
 layout: post
-title: A Magical Tale of Cosmic Kitchen  
+title: A Magical Tale of the Cosmic Kitchen  
 hide_title: true
 color: rgb(250, 50, 50)
-feature-img: "assets/img/pexels/old-solar-sys-banner.webp"
-img:  "assets/img/pexels/old-solar-sys-banner.webp"
-thumbnail:  "assets/img/pexels/old-solar-sys-banner.webp"
-tags: [Universe, MythStory, Sun, QuantumPhysics, NuclearFusion, BlackHole, ParticlePhysics, StellarPhysics, NeutronStars, SupernovaStory]
+feature-img: "assets/img/pexels/solar-sys-banner.jpg"
+img:  "assets/img/pexels/solar-sys-banner.jpg"
+thumbnail:  "assets/img/pexels/solar-sys-banner.jpg"
+tags: [Universe, MythStory, Sun, QuantumPhysics, NuclearFusion, BlackHoles, StellarPhysics, NeutronStars, SupernovaStory]
 categories: Post
 ---
 
-# A Magical Tale of Cosmic Kitchen  
+# A Magical Tale of the Cosmic Kitchen  
 
 > **“The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.”**  - Carl Sagan.
 
-She was sitting on the swing in a garden on a fine evening. The sunset looked mesmerising. As the colours of the sunset painted the sky with orange and red, she felt a connection to the universe. She looked around at things with amusement as if she had got new eyes.
+One afternoon while she was looking at the sunset from the window, the soft glow of the setting sun enveloping her in a warm embrace. The room bathed in the amber hues of twilight, she sits, a silent spectator to the celestial performance outside. With a mug of something comforting in hand, she leans against the window sill, captivated by the canvas of the sky. The sun, a glowing orb of farewell, casts its golden tendrils across the horizon.  
 
-The garden had people, who were busy with their lives as usual. But today she noticed someone who was looking closely at the sunflowers. She started to think, "At first it seemed normal, anyone could be adoring the beauty of flowers. But later realised that's not what he was doing!" She decided to ask.  
+In ancient mythology, Surya is the Sun god. He's portrayed riding a chariot drawn by seven horses, symbolising the seven colours of a rainbow or the seven chakras in the body. Surya is believed to bring light, dispelling darkness and ignorance !
 
-<img src="https://live.staticflickr.com/77/201811740_dc71716bc1_b.jpg" alt="startbootstrap" style="width: 60%; height: 40%; margin-top: 20px;">
+Wondering about the mystery of the Sun, she remembered what she had learned in school about a star.. “A burning ball of gases?!” she thought. Suddenly her mother called her to the kitchen. Cooking, being a kind of mystical experience for her, always reminded her about chemistry! She learned in school how a combination of a few chemicals can make something cool. 
+> Food is yet another Magical Transformation of raw items from the garden, resulting from chemical changes brought in a pan kept over a Flame ! 🔥
 
-As she stood near in hesitation and confusion, he noticed her and asked, 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-            <div style="padding: 12px;">
-                "Have you ever happened to observe the symmetry in this flower?" 
-            </div>
-    </div>
-</div>
-She looked at the beautiful pattern. He went on,
-<div style="max-width: 600px; margin: 0 auto;">
-     <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-            <div style="padding: 12px;">
-                "Nature is so perfect! Maybe nature loves mathematics. Have you ever noticed that from plants such as sunflowers to animals and insects like butterflies, starfish, and even we humans, all the way to large structures like spiral galaxies—everything seems to follow a certain symmetrical and mathematical pattern! But why?"
-            </div>
-    </div>
-</div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Starfish_02_%28paulshaffner%29_cropped.jpg" alt="startbootstrap" style="width: 60%; height: 40%; margin-top: 20px;">
+This amazing thought made her appreciate the art of cooking while she goes to the kitchen to help her mother. As she started to chop the veggies, she continued thinking about the sun, “But why is it so hot? Why is it burning? What does burning even mean?”.  A moment later she saw something interesting. Her mother began to cook the vegetables. “Oh! Cooking is also burning or heating afterall” she said excitedly. “Who must be cooking the sun in the cosmic pan?”, she giggled.  Now she had an idea about what could be going inside the sun. Maybe it was better to start with what's happening with each atom inside it!  She thought of cooking her own star in the kitchen today.
+
+"So, if I assume that some hydrogen atoms are inside this pan placed on the flame, what will happen?" she wondered. But this wasn't as simple as that. There is a lot more going on inside the sun than just heating. She remembered what QuantumBoy told her about the fundamental forces. “Gravitational force must be sticking all hydrogen atoms together. But at such high temperatures, possibly those atoms would melt inside the pan, which means the electrons will no longer go around the nucleus,” she imagined.
+
+"But still, this does not form a sun! What if the temperature can be increased even more?" She began to think, “If I heat up the atoms so much that they become highly energetic, and their nuclei begin to collide with each other? Then, at such a small distance, the force that can glue protons and neutrons together can come into play, and possibly some nuclei might want to combine together and form a bigger nucleus!”.
+> That's what actually happens inside a star throughout most of its life. It undergoes fusion of atoms, and this process releases a great amount of heat and energy. That's how our sun glows!
+
+She could imagine nuclei of hydrogen fusing together in front of her eyes in that pan with sizzling vegetables. She continued, “Okay, so what's next? Maybe one day all my hydrogen atoms will combine to form bigger atoms. What will happen after that? Will this process stop? What if I don't want to take the pan off the stove? If I keep heating it more, then maybe the bigger atoms will start to combine too. I think they might form even larger-sized atoms, huge ones.”
+
+"But this process was releasing a lot of energy that should be pushing everything outwards. But she was confused; then why doesn't the sun burst? She felt a click, 'There must be something holding it in its place. Some inward force that is still binding everything together.' That is nothing but our favourite gravitational force!"
+
+"Throughout the life of a sun, a tug of war ensues between the outward pressure generated by thermal energy, seeking to push everything out, and the inward gravitational force, endeavouring to pull everything inside into a smaller and smaller region. 
+> The sun maintains its shape as long as these forces are balanced with each other." 
+
+“But do these forces ever get imbalanced? If yes, when? And then what happens to the star?” she questioned. Meanwhile, she continued to ponder the possibilities, and her mother noticed. “Oh girl, you are so slow! I could have prepared the entire lunch by this time, and you haven’t finished chopping yet!” her mother exclaimed. But she took no notice of her as she was lost in her thoughts, busy solving another mystery of the universe! 
+
+<img src="/assets/img/pexels/supernova-remnant.jpg" alt="startbootstrap" style="width: 60%; height: 40%; margin-top: 20px;">
+
+"There comes a point when the nuclei are no longer able to fuse together to form a further bigger nucleus as no sufficient energy remains. This is the point when fusion stops, and the outward thermal pressure is overpowered by the inward gravitational force. "So, finally, one day gravitational force has to win! Then the star will start to collapse into itself and compress inward due to gravity" she concluded.
+
+> As the star keeps compressing into smaller and smaller volumes, it can't withstand its own weight and bursts out with a huge explosion. We call it a supernova."
+
+> What is left behind after the explosion is a dense core of the star, which becomes as dense as Earth compressed down to the size of an apple! This is known as a neutron star. If the star is big enough, what is left after a supernova is a black hole.
+
+<img src="/assets/img/pexels/star-death.png" alt="startbootstrap" style="width: 60%; height: 40%; margin-top: 20px;">
 
 
-There was a spark in his eyes that reflected an urge to find the answers. He said, 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-            "It seems as if nature prefers symmetry, don't you think?"
-        </div>
-    </div>
-</div>
-She nodded. 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-             "Does this order and complexity that we find everywhere in the universe indicate that it has been designed with a purpose, rather than a random and chaotic system?" 
-        </div>
-    </div>
-</div>
-he questioned. 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-              "Okay, okay, but why should we care?"
-        </div>
-    </div>
-</div>
-She asked. He smiled and said, 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-               "Do you know about the fundamental forces of the universe?" 
-        </div>
-    </div>
-</div>
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-               "Yes, I do know" 
-        </div>
-    </div>
-</div>
-She started to get excited. He continues then, 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-              “So, there are 4 fundamental forces known to us in our universe. First is the gravitational force that acts between any 2 objects due to their mass. It is the force that is responsible for the motion of the earth around the sun, the motion of stars around the centre of the galaxy, and thanks to this force we're not all floating around like balloons at a birthday party!” 
-        </div>
-    </div>
-</div>
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-                “Second is the electromagnetic force that governs the motion of electrons around the nucleus in an atom. It is the same force that makes possible the electricity in your house and even the sunlight you receive is nothing but electromagnetic energy.”
-        </div>
-    </div>
-</div>
-He sighed and continued.... 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-               “The other 2 forces belong to the nucleus. They are known as weak nuclear and strong nuclear forces. They hold the nucleus together. Well, the Weak Nuclear Force is like the friendly mediator, making sure Uncle Proton and Aunt Neutron don't argue over who gets the last sandwich! And the Strong nuclear force is the ultimate bonding agent, it glues them all together. When the humans  got an understanding of fundamental forces, it led to the destruction in Hiroshima and Nagasaki during the 2nd world War!”
-        </div>
-    </div>
-</div>
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-                “But how is that related to symmetry?” 
-        </div>
-    </div>
-</div>
-She questioned impatiently. but he answered with ease, 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-               “Our universe is believed to have started with a single event..."
-        </div>
-    </div>
-</div>
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-                 "Big bang !!!"  
-        </div>
-    </div>
-</div>
-She popped up. 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-             "Yeah, so everything came into existence with a single infinitely small point, right? There were no particles at the beginning and no nucleus, no matter either…probably it was pure energy spread around!”
-        </div>
-    </div>
-</div>
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-             “I see...then what about these forces we have classified? How would weak force know if it is different from gravitational force? Or how would electromagnetic force distinguish itself from strong force? There ain’t an electron, nor a proton.” 
-        </div>
-    </div>
-</div>
-She was confused.
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-                “Exactly! At the beginning of time, all these forces would be the same, all unified into one single force,” 
-        </div>
-    </div>
-</div>
-He exclaimed. 
+“But is this the end of the star? 
+Or is there more to it than we can see? 
+What happens to the leftover dense core ?”  she kept wondering.....
 
-### Breaking Symmetry and the Birth of Matter
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-            “But with time as the energy started to take shape into particles…” 
-        </div>
-    </div>
-</div>
-He paused to see what she was trying to say. Suddenly it clicked to her, and she said, 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-            “The symmetry among these forces began to break!!”  
-        </div>
-    </div>
-</div>
-He smiled, 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-            “Yes, and finally we had different particles, and forces among them began to bind them together and gave us atoms and atoms gave us matter which took up the form of gases stars planets, and galaxies…and finally life! If that symmetry never broke, we might not be here today appreciating the symmetry of a sunflower. I wonder, who is this wonderful Mathematician...” 
-        </div>
-    </div>
-</div>
-She burst into laughter, then said
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-           “That's true! That was indeed an amazing conversation.” 
-        </div>
-    </div>
-</div>
-She paused for a while and said, 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-            ”Still, we see a lot of asymmetries in this world, what about it?”
-        </div>
-    </div>
-</div>
-He looked at this watch, 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-             “That's right, but let's keep this for some other day”. 
-        </div>
-    </div>
-</div>
-She nodded, 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-            ”But where to find you?”
-        </div>
-    </div>
-</div>
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-            “I enjoy spending leisure time at the city library”  
-        </div>
-    </div>
-</div>
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-            “All right, hope to have another interesting talk soon!” 
-        </div>
-    </div>
-</div>
-She said with a smile. 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-           “Of course…” 
-        </div>
-    </div>
-</div>
-### Meet the Quantum Maestro
-He thought to wave goodbye, but she suddenly asked
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-            “What should I call you, btw?” 
-        </div>
-    </div>
-</div>
-He replied with a playful smile.
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #add8e6; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-            “Well, does it 'MATTER' !?, whatever!”. 
-        </div>
-    </div>
-</div>
-But She already had a name for him in mind, 
-<div style="max-width: 600px; margin: 0 auto;">
-    <div style="margin: 10px 0; border-radius: 15px; overflow: hidden; background-color: #ffe4b5; color: #333; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); word-wrap: break-word; max-width: 90%;">
-        <div style="padding: 12px;">
-            “Can I call you a QuantumBoy, if you don’t mind?!”
-        </div>
-    </div>
-</div>
 
-He laughed and nodded. They waved goodbyes... Meanwhile, her thoughts continued..."
+#### References
+
+* https://en.wikipedia.org/wiki/Surya
+* https://en.wikipedia.org/wiki/Supernova_remnant
 
 
 #### Image Credits
 
-* Banner-milkyway.jpg from https://www.deviantart.com/madrusss/art/Architect-of-the-Universe-A-Celestial-Study-993435498 
-* Sunflower.jpg from https://www.flickr.com/photos/audreyjm529/201811740/
-* Starfish.jpg from https://en.wikipedia.org/wiki/Patterns_in_nature#/media/File:Starfish_02_(paulshaffner)_cropped.jpg  
+* Solar-system.jpg from https://answersingenesis.org/astronomy/solar-system/origin-of-solar-system-and-planets/  
+* Supernova-remnant.jpg from https://science.nasa.gov/resource/cassiopeia-a-supernova-remnant/
+* Star-death.png from https://orbitaltoday.com/2023/05/18/beyond-eternity-what-happens-when-a-star-dies/ 
+
