@@ -40,7 +40,11 @@ She could imagine nuclei of hydrogen fusing together in front of her eyes in tha
 
 “But do these forces ever get imbalanced? If yes, when? And then what happens to the star?” she questioned. Meanwhile, she continued to ponder the possibilities, and her mother noticed. “Oh girl, you are so slow! I could have prepared the entire lunch by this time, and you haven’t finished chopping yet!” her mother exclaimed. But she took no notice of her as she was lost in her thoughts, busy solving another mystery of the universe! 
 
-<img src="https://spacegirlhere.github.io/blog/assets/img/pexels/supernova-remnant.jpg" alt="startbootstrap" style="width: 100%; height: 30%; margin-top: 20px;">
+<div class="container-fluid">
+  <img src="https://spacegirlhere.github.io/blog/assets/img/pexels/supernova-remnant.jpg"
+       alt="startbootstrap"
+       style="width: 100%; height: 50vh; object-fit: cover; margin-top: 20px;">
+</div>
 
 "There comes a point when the nuclei are no longer able to fuse together to form a further bigger nucleus as no sufficient energy remains. This is the point when fusion stops, and the outward thermal pressure is overpowered by the inward gravitational force. "So, finally, one day gravitational force has to win! Then the star will start to collapse into itself and compress inward due to gravity" she concluded.
 
