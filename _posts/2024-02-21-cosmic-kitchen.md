@@ -18,6 +18,10 @@ One afternoon while she was looking at the sunset from the window, the soft glow
 
 In ancient mythology, Surya is the Sun god. He's portrayed riding a chariot drawn by seven horses, symbolising the seven colours of a rainbow or the seven chakras in the body. Surya is believed to bring light, dispelling darkness and ignorance !
 
+
+![Death of Star]({{ "/assets/img/pexels/suyra-helios.jpg" | relative_url }})
+
+
 Wondering about the mystery of the Sun, she remembered what she had learned in school about a star.. “A burning ball of gases?!” she thought. Suddenly her mother called her to the kitchen. Cooking, being a kind of mystical experience for her, always reminded her about chemistry! She learned in school how a combination of a few chemicals can make something cool. 
 > Food is yet another Magical Transformation of raw items from the garden, resulting from chemical changes brought in a pan kept over a Flame ! 🔥
 
@@ -37,7 +41,9 @@ She could imagine nuclei of hydrogen fusing together in front of her eyes in tha
 
 “But do these forces ever get imbalanced? If yes, when? And then what happens to the star?” she questioned. Meanwhile, she continued to ponder the possibilities, and her mother noticed. “Oh girl, you are so slow! I could have prepared the entire lunch by this time, and you haven’t finished chopping yet!” her mother exclaimed. But she took no notice of her as she was lost in her thoughts, busy solving another mystery of the universe! 
 
-<img src="/assets/img/pexels/supernova-remnant.jpg" alt="startbootstrap" style="width: 60%; height: 40%; margin-top: 20px;">
+
+![Supernova explosion]({{ "/assets/img/pexels/supernova-remnant.jpg" | relative_url }})
+
 
 "There comes a point when the nuclei are no longer able to fuse together to form a further bigger nucleus as no sufficient energy remains. This is the point when fusion stops, and the outward thermal pressure is overpowered by the inward gravitational force. "So, finally, one day gravitational force has to win! Then the star will start to collapse into itself and compress inward due to gravity" she concluded.
 
@@ -45,7 +51,8 @@ She could imagine nuclei of hydrogen fusing together in front of her eyes in tha
 
 > What is left behind after the explosion is a dense core of the star, which becomes as dense as Earth compressed down to the size of an apple! This is known as a neutron star. If the star is big enough, what is left after a supernova is a black hole.
 
-<img src="/assets/img/pexels/star-death.png" alt="startbootstrap" style="width: 60%; height: 40%; margin-top: 20px;">
+
+![Death of Star]({{ "/assets/img/pexels/star-death.png" | relative_url }})
 
 
 “But is this the end of the star? 
@@ -62,6 +69,7 @@ What happens to the leftover dense core ?”  she kept wondering.....
 #### Image Credits
 
 * Solar-system.jpg from https://answersingenesis.org/astronomy/solar-system/origin-of-solar-system-and-planets/  
+* Surya-helios.jpg from https://www.the-scythes.com/the-horses-of-sotha/ 
 * Supernova-remnant.jpg from https://science.nasa.gov/resource/cassiopeia-a-supernova-remnant/
 * Star-death.png from https://orbitaltoday.com/2023/05/18/beyond-eternity-what-happens-when-a-star-dies/ 
 
