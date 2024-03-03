@@ -13,11 +13,9 @@ tags: [Page]
 
 ## My Gallery
 
+> "Remember, art is whatever you want it to be." – Unknown Artist
+
+Art is the language of the universe. When it gets hard to put our thoughts into words, art comes to rescue. Here my Thoughts come to life through sketches. Art is not just about drawing lines; it's about connecting with the essence of our experiences through a universal language. Welcome to My space, where sketches tell stories and feelings find their visual voice.
+
+
 {% include gallery.html gallery_path=page.gallery_path %}
-
-
-#### Image Credits
-
-* https://apod.nasa.gov/apod/ap240205.html
-* https://apod.nasa.gov/apod/ap230515.html
-* https://apod.nasa.gov/apod/ap230609.html
