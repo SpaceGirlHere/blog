@@ -58,14 +58,6 @@ Einstein along with Podolsky, and Nathan Rosen(EPR Paradox) suggested the idea o
 
  “Ahh, yet we can’t be sure about what exactly is responsible for entanglement!”, she said with disappointment. “But that doesn't stop us from trying”, he said with a smile. 
 
-> After a pause he said, “Maybe it's time to give up the idea of Spatial locality, let's imagine it as a single wave function. Even if a single strand of thread has 2 ends, it is still the same thread”. Suddenly, a sparkle appeared in her eyes!
-
-<div class="container-fluid">
-  <img src="https://www.cronodon.com/images/string_two_brane.gif"
-       alt="startbootstrap"
-       style="width: 100%; height: 65vh; object-fit: cover; margin-top: 20px;">
-</div>
-
 He went near the shelf and picked another book and said. "This takes us to an interesting idea, 
 > The state of these particles can be considered as a form of information. In fact, every particle carries some information right from the moment of the Big Bang to each passing instant. Energy, momentum, angle, polarisation, every attribute is associated with some information that helps us understand the universe better. Each particle carries a unique signature of the universe's history. This intricate web of information not only holds the fundamental properties of particles but also holds the key to understanding the birth and sustainability of life itself”. 
 
